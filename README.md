@@ -26,3 +26,12 @@ fgfs --generic=socket,out,10,127.0.0.1,5051,udp,control --generic=socket,in,10,1
 (the last two are optional)
 
 3. Choose the path or generate your own in paths.py
+
+![5](https://github.com/7Gozel/trajectory-tracking-aircraft/assets/105248274/3cfd5162-2cb1-472f-a9f7-d8023d075cbf)
+![6_2](https://github.com/7Gozel/trajectory-tracking-aircraft/assets/105248274/ee4094ca-449f-4d34-b335-cbf37a0f9d5a)
+
+
+
+
+
+
