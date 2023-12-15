@@ -21,7 +21,7 @@ To start the program:
 
 1. add control.xml file to FlightGear 2020.3\data\Protocol folder
 
-2. Open Cessna 172 from Flightgear and in Additional settings section type:
+2. Open Cessna 172 from Flightgear (you may use different aircrafts just remember to tune PID parameters for new ones) and in Additional settings section type:
 fgfs --generic=socket,out,10,127.0.0.1,5051,udp,control --generic=socket,in,10,127.0.0.1,5052,udp,control --httpd=5405 --disable-sound
 (the last two are optional)
 
